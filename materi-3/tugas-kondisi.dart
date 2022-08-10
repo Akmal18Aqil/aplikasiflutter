@@ -22,6 +22,8 @@ void main(List<String> args) {
         print("Halo $inputnama Kamu Akan Menjadi $inputperan");
       } else if (inputperan == "tukang") {
         print("Halo $inputnama Kamu menjadi $inputperan");
+      } else {
+        print("$inputnama! Kamu Harus Memilih");
       }
     } else {
       print("$inputnama! Kamu Harus Memilih");
