@@ -16,7 +16,6 @@
 //   return a1 * a2;
 // }
 
-
 //Tugas 3
 // void main(List<String> args) {
 //   fungsi();
@@ -34,7 +33,6 @@
 //   print(perkenalan);
 // }
 
-
 // Tugas 4
 // void main(List<String> args) {
 //   faktorial();
@@ -42,9 +40,5 @@
 
 // var angka = (6 * 5 * 4 * 3 * 2 * 1);
 // faktorial() {
-//   if (angka <= 0) {
-//     print("1");
-//   } else {
-//     print(angka);
-//   }
+//   print(angka);
 // }
