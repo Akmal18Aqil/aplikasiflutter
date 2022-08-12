@@ -40,5 +40,9 @@
 
 // var angka = (6 * 5 * 4 * 3 * 2 * 1);
 // faktorial() {
-//   print(angka);
+//   if (angka <= 0) {
+//     print("1");
+//   } else {
+//     print(angka);
+//   }
 // }
