@@ -24,13 +24,14 @@ void main(List<String> args) {
   //   }
   // }
 
-  for (var i = 1; i <= 4; i++) {
-    print("#" * 8);
-  }
+  // for (var i = 1; i <= 4; i++) {
+  //   print("#" * 8);
+  // }
 
   // var bangun = 1;
   // while (bangun <= 7) {
   //   print("#" * bangun);
   //   bangun++;
   // }
+  //
 }
